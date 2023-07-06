@@ -8,6 +8,3 @@
   <a href="https://www.linkedin.com/in/brendo-goncalves-51b251212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://stackexchange.com/users/19802838/brendo-oliveira" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div>
-
-
-
